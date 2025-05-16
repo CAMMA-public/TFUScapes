@@ -19,7 +19,7 @@ This repository contains the link to download the dataset as well as visualizati
 The **TFUScapes** dataset includes _2,500_ simulations spanning _125_ subjects, with _20_ transducer placements per subject emitting a wave at a frequency of _500_ kHz.
 
 ## Download the TFUScapes dataset and install the dependencies
-The MVOR dataset is hosted on the [unistra S3 server](https://s3.unistra.fr/camma_public/datasets/TFUScapes/TFUScapes.zip). Please download the dataset and install the dependencies using the commands given below.
+The **TFUScapes** dataset is hosted on the [unistra S3 server](https://s3.unistra.fr/camma_public/datasets/TFUScapes/TFUScapes.zip). Please download the dataset and install the dependencies using the commands given below.
 
 ```bash
 $ TFUScapes=/path/to/tfuscapes/repository
@@ -64,6 +64,6 @@ This source code, and dataset are licensed under the license found in the [`LICE
 The **TFUScapes** dataset is publicly released under the Creative Commons license [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This implies that:
 - the dataset cannot be used for commercial purposes,
 - the dataset can be transformed (additional annotations, etc.),
-- the dataset can be redistributed as long as it is redistributed under the same license with the obligation to cite the contributing work which led to the generation of the MVOR dataset (mentioned above).
+- the dataset can be redistributed as long as it is redistributed under the same license with the obligation to cite the contributing work which led to the generation of the **TFUScapes** dataset (mentioned above).
 
 By downloading and using this dataset, you agree on these terms and conditions.
