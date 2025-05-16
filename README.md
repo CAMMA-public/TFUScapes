@@ -39,7 +39,7 @@ The Python script [`visualize.py`](visualize.py) provides a fast and interactive
 - **Corresponding pressure map** (from acoustic simulations)
 - **Transducer coordinates** (3D point cloud)
 
-There is sample file (./sample/TFUScapes/data/A00060925/exp_0.npz) that can be used to visualize one sample simulation without downloading the data. It uses the [VTK](https://vtk.org/) library for GPU-accelerated volume rendering and 3D point plotting.
+There is sample file (`./sample/TFUScapes/data/A00060925/exp_0.npz`) that can be used to visualize one sample simulation without downloading the data. It uses the [VTK](https://vtk.org/) library for GPU-accelerated volume rendering and 3D point plotting.
 
 ### usage
 ```bash
