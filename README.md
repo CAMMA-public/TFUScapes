@@ -19,14 +19,13 @@ This repository contains the link to download the dataset as well as visualizati
 The **TFUScapes** dataset includes _2,500_ simulations spanning _125_ subjects, with _20_ transducer placements per subject emitting a wave at a frequency of _500_ kHz.
 
 ## Download the TFUScapes dataset and install the dependencies
-The **TFUScapes** dataset is hosted on the [unistra S3 server](https://s3.unistra.fr/camma_public/datasets/TFUScapes/TFUScapes.zip). Please download the dataset and install the dependencies using the commands given below.
+The **TFUScapes** dataset is hosted on the [Hugging Face](https://huggingface.co/datasets/vinkle-srivastav/TFUScapes). Please download the dataset and install the dependencies using the commands given below.
 
 ```bash
 $ TFUScapes=/path/to/tfuscapes/repository
 $ git clone https://github.com/CAMMA-public/TFUScapes $TFUScapes
 $ cd $TFUScapes/
-$ cd dataset && wget https://s3.unistra.fr/camma_public/datasets/TFUScapes/TFUScapes.zip
-$ unzip -q TFUScapes.zip && rm TFUScapes.zip && cd ..
+$ cd dataset && git clone https://huggingface.co/datasets/vinkle-srivastav/TFUScapes && cd ..
 $ # Install Python dependencies
 $ pip install vtk numpy
 ```
