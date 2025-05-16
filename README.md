@@ -56,7 +56,7 @@ $ python visualize_vtk.py
 
 ### Disclaimer
 
-It is important to emphasize that the model and dataset are intended strictly for research purposes. The dataset **TFUScapes** is **not validated** for clinical decision-making and must not be used as a substitute for certified medical devices or simulation platforms. As with any simulation-based method in biomedical contexts, there remains a risk that third parties could employ these tools beyond their intended scope. To mitigate this, clear disclaimers and licensing restrictions have been implemented to underscore the non-clinical nature of the data and promote responsible use. Broader impact is expected in terms of advancing reproducibility and collaboration in scientific computing, particularly in the development of data-driven methods for neurotechnology and therapeutic ultrasound.
+It is important to emphasize that the dataset are intended strictly for research purposes. The dataset **TFUScapes** is **not validated** for clinical decision-making and must not be used as a substitute for certified medical devices or simulation platforms. As with any simulation-based method in biomedical contexts, there remains a risk that third parties could employ these tools beyond their intended scope. To mitigate this, clear disclaimers and licensing restrictions have been implemented to underscore the non-clinical nature of the data and promote responsible use. Broader impact is expected in terms of advancing reproducibility and collaboration in scientific computing, particularly in the development of data-driven methods for neurotechnology and therapeutic ultrasound.
 
 
 ### License
