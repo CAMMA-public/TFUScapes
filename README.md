@@ -42,7 +42,7 @@ There is sample file (`./sample/TFUScapes/data/A00060925/exp_0.npz`) that can be
 
 ### usage
 ```bash
-$ python visualize_vtk.py 
+$ python visualize.py 
 # change path in the main function (sample_path) to visualize a different sample
 ```
 
