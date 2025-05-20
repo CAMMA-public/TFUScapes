@@ -20,7 +20,7 @@ _This repository contains the link to download the dataset and a visualization s
 
 
 ## Download the TFUScapes dataset and install the dependencies
-The **TFUScapes** dataset is hosted on the [Hugging Face](https://huggingface.co/datasets/vinkle-srivastav/TFUScapes). You can the dataset and install the dependencies using the commands given below.
+The **TFUScapes** dataset is hosted on the [Hugging Face](https://huggingface.co/datasets/vinkle-srivastav/TFUScapes). You can download the dataset and install the dependencies using the commands given below.
 
 ```bash
 $ TFUScapes=/path/to/tfuscapes/repository
