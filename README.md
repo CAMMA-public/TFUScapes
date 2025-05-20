@@ -58,9 +58,9 @@ If you use our dataset or code in your research, please cite as:
 @article{srivastav2025tfuscapes,
     author    = {Srivastav, Vinkle and Puel, Juliette and Vappou, Jonathan and Houten, Elijah Van and Cabras, Paolo and Padoy, Nicolas},
     title     = {A Skull-Adaptive Framework for AI-Based 3D Transcranial Focused Ultrasound Simulation},
-    booktitle = {arXiv},
+    journal =   {arXiv preprint arXiv:2505.12998},
     year      = {2025},
-    note     =  {https://github.com/CAMMA-public/TFUScapes},
+    note     =  {\url{https://github.com/CAMMA-public/TFUScapes}},
 }
 ```
 
