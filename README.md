@@ -55,12 +55,12 @@ $ python visualize.py
 ## Citation
 If you use our dataset or code in your research, please cite as:
 ```bibtex
-@article{Srivastav_2025_tfuscapes,
+@article{srivastav2025tfuscapes,
     author    = {Srivastav, Vinkle and Puel, Juliette and Vappou, Jonathan and Houten, Elijah Van and Cabras, Paolo and Padoy, Nicolas},
-    title     = {A Skull-Adaptive Framework for AI-Based 3D Transcranial Focused Ultrasound Simulation,
+    title     = {A Skull-Adaptive Framework for AI-Based 3D Transcranial Focused Ultrasound Simulation},
     booktitle = {arXiv},
     year      = {2025},
-    note     =  {https://github.com/CAMMA-public/TFUScapes}
+    note     =  {https://github.com/CAMMA-public/TFUScapes},
 }
 ```
 
