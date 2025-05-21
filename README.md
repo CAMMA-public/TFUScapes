@@ -7,8 +7,13 @@
 ## **A Skull-Adaptive Framework for AI-Based 3D Transcranial Focused Ultrasound Simulation**
 
 _Vinkle Srivastav, Juliette Puel, Jonathan Vappou, Elijah Van Houten, Paolo Cabras*, Nicolas Padoy*_
+*co-last authors
 
-*Co-last authors
+
+<div align="center">
+  <img src="figs/dataset.gif" width="1200px" />
+</div>
+
 #
 # <p align="center">  Arxiv  [![arXiv](https://img.shields.io/badge/arxiv-2505.12998-red)](https://arxiv.org/abs/2505.12998)  </p>  
 
