@@ -77,7 +77,7 @@ It is important to emphasize that the dataset is intended strictly for research 
 
 
 ### License
-This source code, and dataset are licensed under the license found in the [`LICENSE`](LICENSE) file in the root directory of this source tree.
+This source code, and dataset are licensed under the license found in the [`LICENSE`](LICENSE.txt) file in the root directory of this source tree.
 The **TFUScapes** dataset is publicly released under the Creative Commons license [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This implies that:
 - the dataset cannot be used for commercial purposes,
 - the dataset can be transformed (additional annotations, etc.),
