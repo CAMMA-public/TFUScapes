@@ -82,6 +82,6 @@ The **TFUScapes** dataset is publicly released under the [CC-BY-NC-SA 4.0](https
 
 - **Share with credit**: You can copy and share the work if you give proper attribution.  
 - **No commercial use**: The material cannot be used for any commercial purposes.  
-- **No modifications**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+- **Share alike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 By downloading and using this dataset, you agree to these terms and conditions.
